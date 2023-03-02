@@ -10,7 +10,7 @@
     <Description>A ListMonk API SDK for C#</Description>
     <PackageIcon>icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/SpikySpam/ListMonk</RepositoryUrl>
+    <RepositoryUrl>https://github.com/SpikySpam/ListMonk.SDK</RepositoryUrl>
     <PackageTags>listmonk;refit;api;wrapper;sdk</PackageTags>
   </PropertyGroup>
 
